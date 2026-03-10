@@ -27,26 +27,21 @@ This project currently demonstrates the frontend architecture and user interface
 * Scalable system structure prepared for backend integration
 
 ---
-
 ## Technology Stack
 
-### Frontend
+Frontend
+- React
+- TypeScript
+- HTML
+- CSS
 
-* React
-* TypeScript
-* HTML
-* CSS
+Backend Architecture (Planned)
+- Node.js
+- Express.js
 
-### Backend Architecture (Planned)
-
-* Node.js
-* Express.js
-
-### Development Tools
-
-* Vite
-* Git
-
+Development Tools
+- Vite
+- Git
 ---
 
 ## System Architecture
