@@ -1,7 +1,7 @@
-## Live Demo
-
-[Open VidhyaAI Application](https://vidhya-ai-deploy-ethia8x27-vullithraiambicas-projects.vercel.app/)
 # VidhyaAI
+## Live Demo
+[Open VidhyaAI Application](https://vidhya-ai-deploy-ethia8x27-vullithraiambicas-projects.vercel.app/)
+
 
 VidhyaAI is a prototype educational web platform designed to assist teachers in managing classroom resources, organizing lesson plans, and monitoring student learning activities through a centralized digital interface.
 
