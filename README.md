@@ -68,7 +68,26 @@ Frontend prototype implemented.
 Backend services and database integration are currently under development.
 
 ---
+## Screenshots
 
+### Dashboard
+![Dashboard](![Dashboard](https://github.com/user-attachments/assets/79fb0d50-7c31-4791-8d5f-0b2090c0dad7)
+)
+
+
+### Lesson Planner
+![Lesson Planner](![lsplanner](https://github.com/user-attachments/assets/69c6b03d-c504-4a03-afc4-40c29ab0fa48)
+)
+
+### Worksheet Generator
+![Worksheet Generator](![genaratorws](https://github.com/user-attachments/assets/bc094e28-7d59-4126-b243-27aa513c4a39)
+)
+
+### Student Database
+![Student Database](![database](https://github.com/user-attachments/assets/c8d381f9-13f2-4d72-bf7a-0ff8ca9aadba)
+)
+
+---
 ## Learning Objectives
 
 * Apply modern frontend development practices
