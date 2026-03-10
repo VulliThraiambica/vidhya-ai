@@ -83,10 +83,10 @@ Backend services and database integration are currently under development.
 ![Student Database](database.jpeg)
 
 ### Progress Tracking
-![Progress tracker ](database.jpeg)
+![Progress tracker ](Progresstracker.jpeg)
 
 ### Auto correction
-![Auto correction](database.jpeg)
+![Auto correction](auto.jpeg)
 
 ---
 ## Learning Objectives
